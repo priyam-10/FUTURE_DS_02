@@ -21,11 +21,11 @@ A comprehensive customer retention and churn analytics project completed as part
 
 ### Dashboard Overview
 
-![Dashboard Overview](FUTURE_DS_02/Images/Dashboard_Page1.png)
+![Dashboard Overview](Images/Dashboard_Page1.png)
 
 ### Insights & Recommendations
 
-![Dashboard Insights](FUTURE_DS_02/Images/Dashboard_Page2.png)
+![Dashboard Insights](Images/Dashboard_Page2.png)
 
 ---
 
